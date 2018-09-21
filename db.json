@@ -1,4 +1,6 @@
-[{"id":1,"docuemntCat":"cras.ppt"},
+{
+  "docCat": [
+    {"id":1,"docuemntCat":"cras.ppt"},
 {"id":2,"docuemntCat":"tincidunt in leo.ppt"},
 {"id":3,"docuemntCat":"risus praesent lectus.xls"},
 {"id":4,"docuemntCat":"penatibus et.ppt"},
@@ -17,4 +19,6 @@
 {"id":17,"docuemntCat":"rutrum.ppt"},
 {"id":18,"docuemntCat":"eu.xls"},
 {"id":19,"docuemntCat":"purus.pdf"},
-{"id":20,"docuemntCat":"enim.pdf"}]
+{"id":20,"docuemntCat":"enim.pdf"}
+  ]
+}
