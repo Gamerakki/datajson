@@ -1,4 +1,4 @@
-{
+[{
   "docCat": [
 {"id":3,"docuemntCat":"Accident Report"},
 {"id":4,"docuemntCat":"Approval Documents"},
@@ -19,4 +19,4 @@
 {"id":19,"docuemntCat":"Work Report"},
 {"id":20,"docuemntCat":"Complanit Report"}
   ]
-}
+}]
